@@ -1,0 +1,2 @@
+SUPABASE_URL=yourURL
+SUPABASE_KEY=yourKey
