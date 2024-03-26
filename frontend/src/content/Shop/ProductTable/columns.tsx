@@ -18,7 +18,7 @@ export const ColumnHeading = ({
 	return (
 		<div
 			className={clsx(
-				"border-r border-t border-b border-border h-full flex items-center p-4 border-white",
+				"border-r border-t border-b border-border h-full flex items-center p-4",
 				labelEnd && "justify-end",
 			)}
 		>
